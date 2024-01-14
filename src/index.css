@@ -748,7 +748,6 @@ p:hover {
 @media (width < 1440px) {
     .container {
         width: 375px;
-        border: 1px solid #000;
     }
 
     .header {
